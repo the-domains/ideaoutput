@@ -1,0 +1,14 @@
+layout_spectrum: 0.590065088821575
+typography_spectrum: 0.8516355634201318
+color:
+  brandStrength: 0.9346674741245806
+  lightness: 0.1877237856388092
+  saturation: 0.733766769291833
+  rhythmicContrast: 0.8282590087037534
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+name: ideaOutput
