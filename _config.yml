@@ -1,16 +1,16 @@
-typography_spectrum: 0.8516355634201318
+layout_spectrum: 0.5722841783426702
+typography_spectrum: 0.4921909461263567
 color:
-  brandStrength: 0.9346674741245806
-  lightness: 0.1877237856388092
-  saturation: 0.733766769291833
-  rhythmicContrast: 0.8282590087037534
+  brandStrength: 0.298071259399876
+  lightness: 0.2507150387391448
+  saturation: 0.23734064190648496
+  rhythmicContrast: 0.2227300324011594
   brandColors:
-    - '#3E454C'
-    - '#2185C5'
-    - '#7ECEFD'
-    - '#FFF6E5'
-    - '#FF7F66'
-layout_spectrum: 0.590065088821575
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 name: ideaOutput
 navigation:
   - name: Portfolio
