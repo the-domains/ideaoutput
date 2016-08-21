@@ -4,8 +4,15 @@
         <description><![CDATA[ideaOutput]]></description>
         <link>https://thegrid.ai/ideaoutput/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 21:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 21:48:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ideaoutput/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>http://www.ideaOutput.com</link>
+            <guid isPermaLink="false">19303563-81d9-4807-9ca4-78693cf72aa7</guid>
+            <pubDate>Sat, 20 Aug 2016 21:48:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[io-v2]]></title>
             <description><![CDATA[<article><h1>io-v2</h1></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Photos of Various Food Dishes Flying Through the Air</h1><p>Camden, London-based commercial still life photographer Piotr Gregorczyk likes to play with food and gravity. One concept he has focused on for a number of recent projects is the idea of showing various food dishes flying through the air as they come together on a plate or in a bowl.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea61b8e6e7eb14f53652b069cde3df0e37aa5826.jpg"></article>]]></description>
             <link>http://petapixel.com/2015/08/05/photos-of-various-food-dishes-flying-through-the-air/</link>
             <guid isPermaLink="false">f66d4b87-7a07-4385-991d-2aaddba4b978</guid>
-            <pubDate>Fri, 19 Aug 2016 10:20:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cooling off: TWIG brings Japanese-style cold brewing to London]]></title>
-            <description><![CDATA[<article><h1>Cooling off: TWIG brings Japanese-style cold brewing to London</h1><p>When self-proclaimed tea fanatic and yoga teacher Iona Carter travelled to Kanazawa, Japan last year, something about their brews seemed extra cool. A local specialty, the process of cold brewing tea inspired Carter to launch her own London-based company, TWIG Teas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d340efa15893cce7423e307478a36c656055568.jpg"></article>]]></description>
-            <link>http://www.wallpaper.com/lifestyle/twig-brings-japanese-style-cold-brewing-to-london</link>
-            <guid isPermaLink="false">b9c85f1f-c0ab-41a3-b229-ecb675a5a6e2</guid>
             <pubDate>Fri, 19 Aug 2016 10:20:45 GMT</pubDate>
         </item>
     </channel>
