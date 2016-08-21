@@ -1,4 +1,3 @@
-layout_spectrum: 0.5722841783426702
 typography_spectrum: 0.4921909461263567
 color:
   brandStrength: 0.298071259399876
@@ -11,10 +10,13 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
+layout_spectrum: 0.5722841783426702
 name: ideaOutput
 navigation:
   - name: Portfolio
     id: fff87429-6c17-4ef6-8f43-d2207d38eec3
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fed3b4bd-1e66-4254-baac-84fedd9c9062.png
 title: ideaOutput
 description: think.learn.do.
