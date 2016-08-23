@@ -1,4 +1,3 @@
-layout_spectrum: 0.6568673413712531
 typography_spectrum: 0.35118608945049345
 color:
   brandStrength: 0.9746953509747982
@@ -11,10 +10,14 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+layout_spectrum: 0.6568673413712531
 name: ideaOutput
 navigation:
   - name: Portfolio
     id: fff87429-6c17-4ef6-8f43-d2207d38eec3
+    type: content
+  - name: TRON
+    id: 36315772-d123-44de-9cd1-de0fe995a985
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fed3b4bd-1e66-4254-baac-84fedd9c9062.png
